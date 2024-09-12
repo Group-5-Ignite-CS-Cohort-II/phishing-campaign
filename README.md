@@ -1,1 +1,3 @@
-# phishing-campaign
+# Phishing Campaign Setup with Gophish - Group 5
+
+This project illustrates the process of setting up a phishing campaign using Gophish, an open-source framework, hosted on DigitalOcean. The setup involves creating a virtual server, installing and configuring Gophish, and crafting phishing emails and landing pages to simulate an attack. The campaign was designed to test and enhance cybersecurity awareness by tracking email engagement and data submissions. Recommendations for mitigating phishing attacks are also provided, emphasizing technical measures, user training, and robust policy implementation.
